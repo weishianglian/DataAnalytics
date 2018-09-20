@@ -1,0 +1,283 @@
+[D 23:03:27.656 NotebookApp] Searching ['/Users/edwardlian/Workspace/DA/Coursework', '/Users/edwardlian/.jupyter', '/usr/local/anaconda3/envs/ds2/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[D 23:03:27.657 NotebookApp] Looking for jupyter_config in /etc/jupyter
+[D 23:03:27.658 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+[D 23:03:27.658 NotebookApp] Looking for jupyter_config in /usr/local/anaconda3/envs/ds2/etc/jupyter
+[D 23:03:27.658 NotebookApp] Looking for jupyter_config in /Users/edwardlian/.jupyter
+[D 23:03:27.658 NotebookApp] Looking for jupyter_config in /Users/edwardlian/Workspace/DA/Coursework
+[D 23:03:27.659 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+[D 23:03:27.659 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+[D 23:03:27.659 NotebookApp] Looking for jupyter_notebook_config in /usr/local/anaconda3/envs/ds2/etc/jupyter
+[D 23:03:27.659 NotebookApp] Looking for jupyter_notebook_config in /Users/edwardlian/.jupyter
+[D 23:03:27.659 NotebookApp] Looking for jupyter_notebook_config in /Users/edwardlian/Workspace/DA/Coursework
+[D 23:03:28.157 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	/etc/jupyter/jupyter_notebook_config.json
+[D 23:03:28.157 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+[D 23:03:28.158 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/jupyter_notebook_config.json
+[D 23:03:28.158 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	/Users/edwardlian/.jupyter/jupyter_notebook_config.json
+[I 23:03:28.163 NotebookApp] Serving notebooks from local directory: /Users/edwardlian/Workspace/DA/Coursework
+[I 23:03:28.163 NotebookApp] 0 active kernels
+[I 23:03:28.163 NotebookApp] The Jupyter Notebook is running at:
+[I 23:03:28.163 NotebookApp] http://localhost:8888/?token=00b9033344c977f7cc9e40ab15e57190d477f844c3af42df
+[I 23:03:28.163 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:03:28.164 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=00b9033344c977f7cc9e40ab15e57190d477f844c3af42df
+[I 23:03:28.344 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[D 23:03:28.354 NotebookApp] Using contents: services/contents
+[D 23:03:28.550 NotebookApp] Path base/images/favicon.ico served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/base/images/favicon.ico
+[D 23:03:28.551 NotebookApp] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[D 23:03:28.552 NotebookApp] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[D 23:03:28.552 NotebookApp] Path style/style.min.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/style/style.min.css
+[D 23:03:28.555 NotebookApp] Path components/es6-promise/promise.min.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/es6-promise/promise.min.js
+[D 23:03:28.556 NotebookApp] Path components/preact/index.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/preact/index.js
+[D 23:03:28.557 NotebookApp] Path components/proptypes/index.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/proptypes/index.js
+[D 23:03:28.557 NotebookApp] Path components/preact-compat/index.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/preact-compat/index.js
+[D 23:03:28.558 NotebookApp] Path components/requirejs/require.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/requirejs/require.js
+[D 23:03:28.559 NotebookApp] Path base/images/logo.png served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/base/images/logo.png
+[D 23:03:28.561 NotebookApp] Path tree/js/main.min.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/tree/js/main.min.js
+[D 23:03:28.568 NotebookApp] 200 GET /tree?token=639408f04103b8cfe09a766352b910accfe10f41a8e1f84b (::1) 230.37ms
+[D 23:03:28.617 NotebookApp] Path custom.css served from /Users/edwardlian/.jupyter/custom/custom.css
+[D 23:03:28.619 NotebookApp] 304 GET /custom/custom.css (::1) 2.59ms
+[D 23:03:29.301 NotebookApp] Path services/contents.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/services/contents.js
+[D 23:03:29.302 NotebookApp] 200 GET /static/services/contents.js?v=20180409230327 (::1) 2.65ms
+[D 23:03:29.328 NotebookApp] Paths used for configuration of tree: 
+    	/etc/jupyter/nbconfig/tree.json
+[D 23:03:29.328 NotebookApp] Paths used for configuration of tree: 
+    	/usr/local/etc/jupyter/nbconfig/tree.json
+[D 23:03:29.329 NotebookApp] Paths used for configuration of tree: 
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/nbconfig/tree.json
+[D 23:03:29.329 NotebookApp] Paths used for configuration of tree: 
+    	/Users/edwardlian/.jupyter/nbconfig/tree.json
+[D 23:03:29.330 NotebookApp] 200 GET /api/config/tree?_=1523307809167 (::1) 4.11ms
+[D 23:03:29.332 NotebookApp] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[D 23:03:29.333 NotebookApp] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[D 23:03:29.333 NotebookApp] Paths used for configuration of common: 
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/nbconfig/common.json
+[D 23:03:29.334 NotebookApp] Paths used for configuration of common: 
+    	/Users/edwardlian/.jupyter/nbconfig/common.json
+[D 23:03:29.334 NotebookApp] 200 GET /api/config/common?_=1523307809168 (::1) 2.99ms
+[D 23:03:29.363 NotebookApp] 200 GET /api/terminals?_=1523307809169 (::1) 1.13ms
+[D 23:03:29.371 NotebookApp] Found kernel python3 in /usr/local/anaconda3/envs/ds2/share/jupyter/kernels
+[D 23:03:29.379 NotebookApp] 304 GET /api/kernelspecs (::1) 9.34ms
+[D 23:03:29.382 NotebookApp] 200 GET /api/sessions?_=1523307809170 (::1) 1.99ms
+[D 23:03:29.384 NotebookApp] 200 GET /api/terminals?_=1523307809171 (::1) 0.97ms
+[D 23:03:29.484 NotebookApp] 200 GET /api/contents?type=directory&_=1523307809172 (::1) 7.86ms
+[D 23:03:29.487 NotebookApp] Path custom.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/custom/custom.js
+[D 23:03:29.488 NotebookApp] 200 GET /custom/custom.js?v=20180409230327 (::1) 2.52ms
+[D 23:03:35.208 NotebookApp] 200 GET /api/terminals?_=1523306836941 (::1) 1.34ms
+[D 23:03:35.213 NotebookApp] 200 GET /api/sessions?_=1523306836940 (::1) 2.22ms
+[D 23:03:35.230 NotebookApp] 200 GET /api/contents/data?type=directory&_=1523306836942 (::1) 6.86ms
+[D 23:03:39.750 NotebookApp] Using contents: services/contents
+[D 23:03:39.864 NotebookApp] Path base/images/favicon-notebook.ico served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/base/images/favicon-notebook.ico
+[D 23:03:39.865 NotebookApp] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[D 23:03:39.867 NotebookApp] Path components/codemirror/lib/codemirror.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/codemirror/lib/codemirror.css
+[D 23:03:39.868 NotebookApp] Path notebook/css/override.css served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/notebook/css/override.css
+[D 23:03:39.870 NotebookApp] Path components/text-encoding/lib/encoding.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/text-encoding/lib/encoding.js
+[D 23:03:39.871 NotebookApp] Path notebook/js/main.min.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/notebook/js/main.min.js
+[D 23:03:39.880 NotebookApp] 200 GET /notebooks/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 131.85ms
+[D 23:03:39.949 NotebookApp] Path components/MathJax/MathJax.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/MathJax.js
+[D 23:03:39.958 NotebookApp] 304 GET /custom/custom.css (::1) 1.74ms
+[D 23:03:39.959 NotebookApp] 200 GET /static/components/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full,Safe&delayStartupUntil=configured (::1) 10.82ms
+[D 23:03:39.974 NotebookApp] 200 GET /static/notebook/js/main.min.js?v=11b42e90f007d9034055418999cda73c (::1) 20.77ms
+[D 23:03:40.039 NotebookApp] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[D 23:03:40.053 NotebookApp] 200 GET /static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js?rev=2.6.0 (::1) 14.68ms
+[D 23:03:40.253 NotebookApp] 200 GET /static/services/contents.js?v=20180409230327 (::1) 3.32ms
+[D 23:03:40.363 NotebookApp] Path components/MathJax/config/Safe.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/config/Safe.js
+[D 23:03:40.365 NotebookApp] 200 GET /static/components/MathJax/config/Safe.js?rev=2.6.0 (::1) 3.18ms
+[D 23:03:40.368 NotebookApp] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[D 23:03:40.369 NotebookApp] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[D 23:03:40.370 NotebookApp] Paths used for configuration of notebook: 
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/nbconfig/notebook.json
+[D 23:03:40.372 NotebookApp] Paths used for configuration of notebook: 
+    	/Users/edwardlian/.jupyter/nbconfig/notebook.json
+[D 23:03:40.373 NotebookApp] 200 GET /api/config/notebook?_=1523307820140 (::1) 6.51ms
+[D 23:03:40.376 NotebookApp] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[D 23:03:40.378 NotebookApp] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[D 23:03:40.380 NotebookApp] Paths used for configuration of common: 
+    	/usr/local/anaconda3/envs/ds2/etc/jupyter/nbconfig/common.json
+[D 23:03:40.380 NotebookApp] Paths used for configuration of common: 
+    	/Users/edwardlian/.jupyter/nbconfig/common.json
+[D 23:03:40.381 NotebookApp] 200 GET /api/config/common?_=1523307820141 (::1) 6.02ms
+[D 23:03:40.416 NotebookApp] Found kernel python3 in /usr/local/anaconda3/envs/ds2/share/jupyter/kernels
+[D 23:03:40.418 NotebookApp] 200 GET /api/kernelspecs (::1) 2.84ms
+[D 23:03:40.498 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?type=notebook&_=1523307820142 (::1) 69.83ms
+[D 23:03:40.507 NotebookApp] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[D 23:03:40.511 NotebookApp] Path jupyter-js-widgets/extension.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[D 23:03:40.515 NotebookApp] Path jupyter_dashboards/notebook/main.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/main.js
+[D 23:03:40.519 NotebookApp] Paths used for configuration of notebook: 
+    	/Users/edwardlian/.jupyter/nbconfig/notebook.json
+[D 23:03:40.522 NotebookApp] 200 PATCH /api/config/notebook (::1) 4.53ms
+[D 23:03:40.526 NotebookApp] Paths used for configuration of notebook: 
+    	/Users/edwardlian/.jupyter/nbconfig/notebook.json
+[D 23:03:40.529 NotebookApp] 200 PATCH /api/config/notebook (::1) 4.96ms
+[D 23:03:40.535 NotebookApp] 200 GET /custom/custom.js?v=20180409230327 (::1) 34.29ms
+[D 23:03:40.536 NotebookApp] 200 GET /static/components/MathJax/extensions/MathML/content-mathml.js?rev=2.6.0 (::1) 31.49ms
+[D 23:03:40.541 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/main.js?v=20180409230327 (::1) 27.16ms
+[D 23:03:40.562 NotebookApp] 200 GET /nbextensions/jupyter-js-widgets/extension.js?v=20180409230327 (::1) 52.30ms
+[D 23:03:41.201 NotebookApp] Starting kernel: ['/usr/local/anaconda3/envs/ds2/bin/python', '-m', 'ipykernel_launcher', '-f', '/Users/edwardlian/Library/Jupyter/runtime/kernel-0a4352f5-7706-47bc-a06f-52f931164ab9.json']
+[D 23:03:41.213 NotebookApp] Connecting to: tcp://127.0.0.1:52995
+[D 23:03:41.225 NotebookApp] Connecting to: tcp://127.0.0.1:52993
+[I 23:03:41.230 NotebookApp] Kernel started: 0a4352f5-7706-47bc-a06f-52f931164ab9
+[D 23:03:41.230 NotebookApp] Kernel args: {'kernel_name': 'python3', 'cwd': '/Users/edwardlian/Workspace/DA/Coursework/data'}
+[D 23:03:41.232 NotebookApp] 201 POST /api/sessions (::1) 106.81ms
+[D 23:03:41.238 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb/checkpoints?_=1523307820143 (::1) 3.11ms
+[D 23:03:41.240 NotebookApp] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[D 23:03:41.245 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-view.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-view.js
+[D 23:03:41.248 NotebookApp] 200 GET /static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js?rev=2.6.0 (::1) 9.08ms
+[D 23:03:41.248 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-view.js?v=20180409230327 (::1) 4.72ms
+[D 23:03:41.415 NotebookApp] Initializing websocket connection /api/kernels/0a4352f5-7706-47bc-a06f-52f931164ab9/channels
+[D 23:03:41.419 NotebookApp] Requesting kernel info from 0a4352f5-7706-47bc-a06f-52f931164ab9
+[D 23:03:41.420 NotebookApp] Connecting to: tcp://127.0.0.1:52992
+[D 23:03:41.560 NotebookApp] Path components/MathJax/extensions/Safe.js served from /usr/local/anaconda3/envs/ds2/lib/python3.6/site-packages/notebook/static/components/MathJax/extensions/Safe.js
+[D 23:03:41.565 NotebookApp] 200 GET /static/components/MathJax/extensions/Safe.js?rev=2.6.0 (::1) 8.49ms
+[D 23:03:41.664 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/polymer-support.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/polymer-support.js
+[D 23:03:41.667 NotebookApp] Path jupyter_dashboards/notebook/link-css.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/link-css.js
+[D 23:03:41.669 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/polymer-support.js?v=20180409230327 (::1) 6.58ms
+[D 23:03:41.670 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/link-css.js?v=20180409230327 (::1) 3.87ms
+[D 23:03:41.750 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-actions.css served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-actions.css
+[D 23:03:41.754 NotebookApp] Path jupyter_dashboards/notebook/dashboard-common/dashboard-common.css served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-common/dashboard-common.css
+[D 23:03:41.762 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-view.css served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-view.css
+[D 23:03:41.767 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-actions.css?v=20180409230327 (::1) 17.58ms
+[D 23:03:41.770 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-common/dashboard-common.css?v=20180409230327 (::1) 16.98ms
+[D 23:03:41.771 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-view.css?v=20180409230327 (::1) 14.31ms
+[D 23:03:41.885 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-actions.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-actions.js
+[D 23:03:41.888 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-metadata.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-metadata.js
+[D 23:03:41.896 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/dashboard-metadata-compatibility.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-metadata-compatibility.js
+[D 23:03:41.898 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-actions.js?v=20180409230327 (::1) 14.07ms
+[D 23:03:41.899 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-metadata.js?v=20180409230327 (::1) 11.89ms
+[D 23:03:41.899 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/dashboard-metadata-compatibility.js?v=20180409230327 (::1) 5.76ms
+[D 23:03:41.905 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/template-loader.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/template-loader.js
+[D 23:03:41.911 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/object-util.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/object-util.js
+[D 23:03:41.920 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/template-loader.js?v=20180409230327 (::1) 16.66ms
+[D 23:03:41.921 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/object-util.js?v=20180409230327 (::1) 14.26ms
+[D 23:03:41.928 NotebookApp] Path jupyter_dashboards/notebook/bower_components/requirejs-text/text.js served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/bower_components/requirejs-text/text.js
+[D 23:03:41.932 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/bower_components/requirejs-text/text.js?v=20180409230327 (::1) 6.46ms
+[D 23:03:41.950 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/view-toolbar-buttons.html served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/view-toolbar-buttons.html
+[D 23:03:41.960 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/sub-menu.html served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/sub-menu.html
+[D 23:03:41.964 NotebookApp] Path jupyter_dashboards/notebook/dashboard-view/view-menu.html served from /usr/local/anaconda3/envs/ds2/share/jupyter/nbextensions/jupyter_dashboards/notebook/dashboard-view/view-menu.html
+[D 23:03:41.965 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/view-toolbar-buttons.html?v=20180409230327 (::1) 18.57ms
+[D 23:03:41.966 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/sub-menu.html?v=20180409230327 (::1) 8.58ms
+[D 23:03:41.967 NotebookApp] 200 GET /nbextensions/jupyter_dashboards/notebook/dashboard-view/view-menu.html?v=20180409230327 (::1) 3.89ms
+[D 23:03:42.687 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.700 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.726 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.733 NotebookApp] Received kernel info: {'status': 'ok', 'protocol_version': '5.1', 'implementation': 'ipython', 'implementation_version': '6.3.0', 'language_info': {'name': 'python', 'version': '3.6.5', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'pygments_lexer': 'ipython3', 'nbconvert_exporter': 'python', 'file_extension': '.py'}, 'banner': "Python 3.6.5 | packaged by conda-forge | (default, Mar 30 2018, 00:00:55) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.3.0 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.6'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}]}
+[I 23:03:42.734 NotebookApp] Adapting to protocol v5.1 for kernel 0a4352f5-7706-47bc-a06f-52f931164ab9
+[D 23:03:42.741 NotebookApp] 101 GET /api/kernels/0a4352f5-7706-47bc-a06f-52f931164ab9/channels?session_id=918a70808e0943c1ab5703f36e6bfa66 (::1) 1326.04ms
+[D 23:03:42.741 NotebookApp] Opening websocket /api/kernels/0a4352f5-7706-47bc-a06f-52f931164ab9/channels
+[D 23:03:42.742 NotebookApp] Getting buffer for 0a4352f5-7706-47bc-a06f-52f931164ab9
+[D 23:03:42.742 NotebookApp] Connecting to: tcp://127.0.0.1:52992
+[D 23:03:42.742 NotebookApp] Connecting to: tcp://127.0.0.1:52993
+[D 23:03:42.743 NotebookApp] Connecting to: tcp://127.0.0.1:52994
+[D 23:03:42.830 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.850 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.868 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:03:42.883 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:04:02.755 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:04:02.759 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:04:04.278 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: error
+[D 23:04:04.347 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:04:10.843 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:04:10.845 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:04:10.849 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:04:22.675 NotebookApp] Initializing websocket connection /api/kernels/d037727a-8d2c-4aaa-8958-ba9a256872d0/channels
+[W 23:04:22.677 NotebookApp] 404 GET /api/kernels/d037727a-8d2c-4aaa-8958-ba9a256872d0/channels?session_id=029d0c4c0f6c4513bce9e8702811f8b4 (::1): Kernel does not exist: d037727a-8d2c-4aaa-8958-ba9a256872d0
+[D 23:04:22.677 NotebookApp] Using contents: services/contents
+[W 23:04:22.687 NotebookApp] 404 GET /api/kernels/d037727a-8d2c-4aaa-8958-ba9a256872d0/channels?session_id=029d0c4c0f6c4513bce9e8702811f8b4 (::1) 12.32ms referer=None
+[D 23:04:22.688 NotebookApp] Initializing websocket connection /api/kernels/fb664bb6-8c7d-4fc3-a5a6-9517993bcf2d/channels
+[W 23:04:22.690 NotebookApp] 404 GET /api/kernels/fb664bb6-8c7d-4fc3-a5a6-9517993bcf2d/channels?session_id=5f6aae83865840ff859bdfb56e312a8b (::1): Kernel does not exist: fb664bb6-8c7d-4fc3-a5a6-9517993bcf2d
+[D 23:04:22.690 NotebookApp] Using contents: services/contents
+[W 23:04:22.691 NotebookApp] 404 GET /api/kernels/fb664bb6-8c7d-4fc3-a5a6-9517993bcf2d/channels?session_id=5f6aae83865840ff859bdfb56e312a8b (::1) 3.75ms referer=None
+[D 23:05:42.766 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820144 (::1) 1.56ms
+[I 23:05:42.776 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:05:42.776 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:05:42.814 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 40.13ms
+[D 23:08:06.285 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:06.289 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:08:07.194 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: error
+[D 23:08:07.197 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:25.041 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:25.067 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:08:25.123 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: error
+[D 23:08:25.127 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:32.797 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:32.800 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:08:32.855 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: error
+[D 23:08:32.860 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:36.928 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:36.955 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:08:37.009 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: error
+[D 23:08:37.014 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:56.505 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:08:56.512 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:09:42.768 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820145 (::1) 0.93ms
+[I 23:09:42.774 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:09:42.774 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:09:42.815 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 41.79ms
+[D 23:09:53.103 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:11:42.821 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820146 (::1) 10.19ms
+[I 23:11:42.837 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:11:42.837 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:11:42.901 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 67.63ms
+[D 23:13:42.802 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820147 (::1) 1.23ms
+[I 23:13:42.809 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:13:42.809 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:13:42.840 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 32.07ms
+[D 23:13:47.107 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:13:47.108 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:13:49.043 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:14:20.959 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:14:20.965 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:14:20.998 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_result
+[D 23:14:21.001 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:15:05.454 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:15:05.457 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:15:05.468 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_result
+[D 23:15:05.473 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:15:30.967 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:15:30.969 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_input
+[D 23:15:33.963 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: execute_result
+[D 23:15:33.966 NotebookApp] activity on 0a4352f5-7706-47bc-a06f-52f931164ab9: status
+[D 23:15:42.814 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820148 (::1) 5.23ms
+[I 23:15:42.821 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:15:42.821 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:15:42.862 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 42.39ms
+[D 23:17:42.826 NotebookApp] 200 GET /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb?content=0&_=1523307820149 (::1) 3.22ms
+[I 23:17:42.833 NotebookApp] Saving file at /data/Data Cleaning and Preparation.ipynb
+[D 23:17:42.834 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/data/Data Cleaning and Preparation.ipynb
+[D 23:17:42.870 NotebookApp] 200 PUT /api/contents/data/Data%20Cleaning%20and%20Preparation.ipynb (::1) 38.69ms
+[D 23:19:38.016 NotebookApp] 200 GET /api/contents/TrafficMap.ipynb?content=0&_=1523306925793 (::1) 1.07ms
+[D 23:21:38.018 NotebookApp] 200 GET /api/contents/TrafficMap.ipynb?content=0&_=1523306925794 (::1) 1.04ms
+[D 23:23:38.024 NotebookApp] 200 GET /api/contents/TrafficMap.ipynb?content=0&_=1523306925795 (::1) 1.03ms
+[D 23:25:38.031 NotebookApp] 200 GET /api/contents/TrafficMap.ipynb?content=0&_=1523306925796 (::1) 1.04ms
+[D 23:27:38.039 NotebookApp] 200 GET /api/contents/TrafficMap.ipynb?content=0&_=1523306925797 (::1) 1.06ms
+[I 23:27:39.906 NotebookApp] Saving file at /TrafficMap.ipynb
+[D 23:27:39.906 NotebookApp] Saving /Users/edwardlian/Workspace/DA/Coursework/TrafficMap.ipynb
+[D 23:27:42.055 NotebookApp] 200 PUT /api/contents/TrafficMap.ipynb (::1) 2837.87ms
+[D 00:12:37.389 NotebookApp] Initializing websocket connection /api/kernels/d037727a-8d2c-4aaa-8958-ba9a256872d0/channels
+[W 00:12:37.397 NotebookApp] Replacing stale connection: d037727a-8d2c-4aaa-8958-ba9a256872d0:029d0c4c0f6c4513bce9e8702811f8b4
+[I 10:24:59.612 NotebookApp] interrupted
+Serving notebooks from local directory: /Users/edwardlian/Workspace/DA/Coursework
+1 active kernel
+The Jupyter Notebook is running at:
+http://localhost:8888/?token=00b9033344c977f7cc9e40ab15e57190d477f844c3af42df
+Shutdown this notebook server (y/[n])? [C 10:25:01.965 NotebookApp] received signal 2, stopping
+[I 10:25:01.974 NotebookApp] Shutting down 1 kernel
+[C 10:25:02.157 NotebookApp] received signal 2, stopping
+[C 10:25:02.340 NotebookApp] received signal 2, stopping
+[C 10:25:02.515 NotebookApp] received signal 2, stopping
+[D 10:25:07.116 NotebookApp] Kernel is taking too long to finish, killing
+[I 10:25:07.120 NotebookApp] Kernel shutdown: 0a4352f5-7706-47bc-a06f-52f931164ab9
+No answer for 5s: resuming operation...
